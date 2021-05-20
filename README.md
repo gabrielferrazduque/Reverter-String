@@ -1,2 +1,0 @@
-# Reverter-String
-Reverter String
